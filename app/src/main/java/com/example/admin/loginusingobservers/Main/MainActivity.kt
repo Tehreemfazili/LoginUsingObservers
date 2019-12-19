@@ -1,7 +1,8 @@
-package com.example.admin.loginusingobservers
+package com.example.admin.loginusingobservers.Main
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.admin.loginusingobservers.R
 
 class MainActivity : AppCompatActivity() {
 
